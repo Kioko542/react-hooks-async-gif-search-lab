@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import GifList from './GifList';
 import GifSearch from './GifSearch';
 
-const API_KEY = 'E4wQSllIplSB48NH1bebi4ki5FeDyl6t'; // Your Giphy API Key
+const API_KEY = 'E4wQSllIplSB48NH1bebi4ki5FeDyl6t'; 
 const API_URL = 'https://api.giphy.com/v1/gifs/search';
 
 class GifListContainer extends Component {
